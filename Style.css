@@ -1,0 +1,63 @@
+/* #cursos {
+    background-color: pink;
+}
+#web {
+    background-color: red;
+}
+.box {
+    background-color: coral;
+}
+.html {
+    background-color: green;
+}
+.css {
+    background-col or: yellow;
+}
+.javascript {
+    background-color: blue;
+}
+.bootstrap {
+    background-color: gray;
+}
+#cursos, #web{
+    display: block;
+    height: 100px;
+    width: 300px;
+}
+.html, .css
+{
+    display: inline;
+}
+.javascript, .bootstrap
+{
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+} */
+
+body{
+    font-size: 32px;
+}
+.frase1, .frase2, .referencia{
+    text-align: left ;
+    width: 500px;
+    background-color: yellow;
+}
+p{
+    margin: 10px;
+}
+.referencia{
+    background-color: pink;
+    height: 20px;
+}
+.frase1{
+    border: 3px solid red;
+    padding: 20px;
+}
+.frase2{
+    box-sizing: border-box;
+    border: 3px solid red;
+    padding: 20px;
+}
+padding: 20px;
+margin: 0 auto;
